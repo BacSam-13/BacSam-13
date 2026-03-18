@@ -3,4 +3,4 @@
 - 🌱 I have a Degree on Mathematical Computing
 - 🌱 I have experience with Python, C, C++, R and Blender
 - 💞️ I’m looking to collaborate on many areas of computation, but I would like to get to work with some 3D animation studio, or a videogame studio
-- 📫 My email is barucsamuel10@gmail.com
+- 📫 My email is barucsamuel13@outlook.com
